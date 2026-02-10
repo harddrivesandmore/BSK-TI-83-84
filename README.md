@@ -32,3 +32,5 @@ Yes! I did try making a version for my C64 a while back, but I don't really have
 6: Anything else?
 If you're still keeping up with this repo over a year later and looking out for updates, it means a lot to me, and I really appriciate it. Thank you <3
 Also, I lost my TI-link cable. I have a rough idea of where it is. I should probably go find it so I can upload the TI-86 version.
+
+Update 2: I still can't find my TI-link cable so no TI-86 version for now, but I have started work on a TI-92 version. It's already looking really good and I should have a stable enough build for release around the same time as the TI-86 version. The TI-86 version is as good as I can make it, though I'm sure there is a way to make it better.
